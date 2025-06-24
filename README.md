@@ -34,13 +34,13 @@ My focus is on continuous learning, improving my development workflow, and contr
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/tasnimmahmud" target="_blank">
+  <a href="https://github.com/tasnim29" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/tasnimmahmud" target="_blank">
+  <a href="www.linkedin.com/in/tasnim-mahmud" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tasnim@example.com" target="_blank">
+  <a href="tasnimmahmudnjr@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
