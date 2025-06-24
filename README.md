@@ -37,10 +37,10 @@ My focus is on continuous learning, improving my development workflow, and contr
   <a href="https://github.com/tasnim29" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/tasnim-mahmud" target="_blank">
+  <a href="https://www.linkedin.com/in/tasnim-mahmud" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="tasnimmahmudnjr@gmail.com" target="_blank">
+  <a href="mailto:tasnimmahmudnjr@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
