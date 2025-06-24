@@ -43,7 +43,11 @@ My focus is on continuous learning, improving my development workflow, and contr
   <a href="mailto:tasnimmahmudnjr@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.facebook.com/tasnim.mahmud.549582" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
