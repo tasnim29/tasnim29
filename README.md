@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co.com/rKqK8tGk/banner.jpg" alt="Banner" style="width: 100%; height: auto;" />
 
 <h1 align="center">Hi there 👋, I'm Tasnim Mahmud</h1>
-<h3 align="center">Junior Web Developer | MERN Stack Enthusiast</h3>
+<h3 align="center"> Web Developer | MERN Stack Enthusiast</h3>
 
 ---
 
