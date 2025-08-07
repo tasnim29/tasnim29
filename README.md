@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.ibb.co/678sWzjW/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="Banner" style="width: 100; height: auto;" />
+<img src="https://i.ibb.co.com/rKqK8tGk/banner.jpg" alt="Banner" style="width: 100%; height: auto;" />
 
 <h1 align="center">Hi there 👋, I'm Tasnim Mahmud</h1>
 <h3 align="center">Junior Web Developer | MERN Stack Enthusiast</h3>
