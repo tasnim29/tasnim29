@@ -16,10 +16,9 @@ My focus is on continuous learning, improving my development workflow, and contr
 
 ### 🚀 What I’m Working On
 
-- 🌐 Exploring **Next.js** and **React Query**
-- 🚚 Building a **parcel delivery system**
-- 🗺️ Working on a **coverage map of Bangladesh using Leaflet**
-- 📘 Learning **data fetching optimization** with `TanStack Query`
+- 🌐 Exploring **Next.js** and **TypeScript**
+- 🛒 Planning to build a full-featured eCommerce website using **Next.js** and **TypeScript**
+- 🌐 SEO & accessibility best practices for better reach
 
 ---
 
