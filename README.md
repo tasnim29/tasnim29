@@ -1,5 +1,8 @@
 <!-- Banner -->
-<img src="https://i.ibb.co.com/rKqK8tGk/banner.jpg" alt="Banner" style="width: 100%; height: auto;" />
+<p align="center">
+  <img src="https://i.ibb.co/27zyG7Qx/Green-Futuristic-Tech-Cyber-Security-Video-ezgif-com-optimize.gif" alt="Animated Banner" style="width: 100%; height: auto;" />
+</p>
+
 
 <h1 align="center">Hi there 👋, I'm Tasnim Mahmud</h1>
 <h3 align="center"> Web Developer | MERN Stack Enthusiast</h3>
