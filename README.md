@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-<img src="https://i.ibb.co.com/r2TXBpCN/Cyber-Security.png" alt="Animated Banner" style="width: 100%; height: auto;" />
+<img src="https://i.ibb.co.com/r2TXBpCN/Cyber-Security.png" alt="Animated Banner" style="width: 100%;height: 400px; object-fit: cover;" />
 
 <h1 align="center">Hi there 👋, I'm Tasnim Mahmud</h1>
 <h3 align="center"> Web Developer | MERN Stack Enthusiast</h3>
